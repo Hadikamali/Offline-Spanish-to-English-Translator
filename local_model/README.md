@@ -20,6 +20,7 @@ license: apache-2.0
 * target language(s): eng
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* downlaod model: [Helsinki-NLP/opus-mt-es-en](https://huggingface.co/Helsinki-NLP/opus-mt-es-en/tree/main) 
 * download original weights: [opus-2020-08-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus-2020-08-18.zip)
 * test set translations: [opus-2020-08-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus-2020-08-18.test.txt)
 * test set scores: [opus-2020-08-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus-2020-08-18.eval.txt)
