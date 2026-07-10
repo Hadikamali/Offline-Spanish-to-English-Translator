@@ -301,5 +301,3 @@ This project demonstrates that modern neural machine translation can be successf
 By combining the MarianMT translation model with a lightweight Python-based architecture, the application delivers reliable Spanish-to-English translation while maintaining strong privacy guarantees, efficient CPU performance, and straightforward deployment.
 
 The modular design also provides a solid foundation for future expansion, optimization, and support for additional language pairs.
-
----
